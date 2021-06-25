@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonModule.КД_ОбработкаДанныхЗапросов" id="14e0366a-e5fa-4991-9ed4-1657da9620a0" configVersion="c11a7048ec3f6f23852da24536e39ec5dd665390"/>
+		<Metadata name="CommonModule.КД_ОбработкаДанныхЗапросов.Module" id="14e0366a-e5fa-4991-9ed4-1657da9620a0.0" configVersion="d7ad1e2c2c706c4c02553fb9d59adf473bd8a383"/>
+		<Metadata name="Configuration.ИнтерфейсРаботыЗолотаяКорона" id="c14523ea-96b2-4707-be2d-1c723c8fec92" configVersion="787acee75f865e15ca3535f11dab273ef52879ea"/>
+		<Metadata name="HTTPService.КД_HTTP_ИнформацияОПлатежах" id="a42d1750-2072-45b6-8e45-f92533fb47f0" configVersion="285113c9102cdcd0bd304873235bcdc4b63af020">
+			<Metadata name="HTTPService.КД_HTTP_ИнформацияОПлатежах.URLTemplate.ПолучитьИнформациюПоПлатежам" id="23be235b-aea9-4870-b097-bf933605b3a1"/>
+			<Metadata name="HTTPService.КД_HTTP_ИнформацияОПлатежах.URLTemplate.ПолучитьИнформациюПоПлатежам.Method.GET" id="d6660262-c6eb-42a5-86d3-a54f97619e37"/>
+		</Metadata>
+		<Metadata name="HTTPService.КД_HTTP_ИнформацияОПлатежах.Module" id="a42d1750-2072-45b6-8e45-f92533fb47f0.0" configVersion="a01f00ee33a0acd047d70f5a15ac9960b02d8572"/>
+		<Metadata name="HTTPService.КД_ЗолотаяКоронаПлатежи" id="159cb1c2-69db-4689-b16a-93bde60b06b9" configVersion="2daff0544abf0a8513f6dc827f98c5dc077bcb85">
+			<Metadata name="HTTPService.КД_ЗолотаяКоронаПлатежи.URLTemplate.ИдентификационныйЗапрос" id="d25e5a68-a2cf-488c-bd73-bd536ce71d8e"/>
+			<Metadata name="HTTPService.КД_ЗолотаяКоронаПлатежи.URLTemplate.ИдентификационныйЗапрос.Method.POST" id="d2e95c71-a932-4e8d-bb62-6445c0cdf2d1"/>
+		</Metadata>
+		<Metadata name="HTTPService.КД_ЗолотаяКоронаПлатежи.Module" id="159cb1c2-69db-4689-b16a-93bde60b06b9.0" configVersion="78a19c727d2c8c61b1fb793eca8f942352c55679"/>
+		<Metadata name="Language.Русский" id="435f39a5-7215-4d63-be43-fea173200c65" configVersion="caeaa1abe47ab35c743e5105f92c09e48058d6b2"/>
+		<Metadata name="Role.КД_ОсновнаяРоль" id="c6ee9d0a-c16a-4265-a4b4-e4e86c08eeb7" configVersion="8c22bdddac3571f8ff35fae5805447b0c6bd0738"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
